@@ -1,4 +1,4 @@
-torch==2.6.0+cu118 
-torchvision==0.21.0+cu118
+torch==2.6.0
+torchvision==0.21.0
 ultralytics==8.3.75
 jupyterlab==4.3.5
